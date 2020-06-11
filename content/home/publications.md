@@ -2,20 +2,19 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "TSE 2, ICSE 2 (one full research paper), ASE 3 (one full research paper), ICPC 1, Rest 11"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 40
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -28,7 +27,6 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
     exclude_featured = false
   
 [design]
@@ -37,7 +35,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -57,14 +55,14 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = false  
   
 [advanced]
  # Custom CSS. 
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = ""  
 +++
 
 {{% alert note %}}
