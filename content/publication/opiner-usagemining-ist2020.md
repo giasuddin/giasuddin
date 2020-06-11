@@ -38,7 +38,7 @@ selected = false
 
 
 # Links (optional).
-url_pdf = "/papers/study-sentiment-code-review-ist2019.pdf"
+url_pdf = "/papers/MiningUsageScenariosIST.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
