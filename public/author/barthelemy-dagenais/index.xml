@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barthélémy Dagenais | Gias Uddin</title>
+    <link>https://giasuddin.github.io/author/barthelemy-dagenais/</link>
+      <atom:link href="https://giasuddin.github.io/author/barthelemy-dagenais/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barthélémy Dagenais</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giasuddin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Barthélémy Dagenais</title>
+      <link>https://giasuddin.github.io/author/barthelemy-dagenais/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Analysis of API Usage Concepts</title>
+      <link>https://giasuddin.github.io/publication/temporal-api-concepts-icse2012/</link>
+      <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://giasuddin.github.io/publication/temporal-api-concepts-icse2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Temporal API Usage Patterns</title>
+      <link>https://giasuddin.github.io/publication/temporal-api-usage-pattern-ase2011/</link>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://giasuddin.github.io/publication/temporal-api-usage-pattern-ase2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
